@@ -1,0 +1,11 @@
+server:
+  port: 8761 # 유레카 서버 port
+
+spring:
+  application:
+    name: discoveryservice
+
+eureka:
+  client:
+    register-with-eureka: false # 기본 true 자신을 client 로 등록 하지 않겠다.
+    fetch-registry: false # 기본 true 자신을 client 로 등록 하지 않겠다.

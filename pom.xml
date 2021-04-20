@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.jrock</groupId>
-    <artifactId>ecommerce</artifactId>
+    <artifactId>discoveryservice</artifactId>
     <version>0.1</version>
-    <name>ecommerce</name>
+    <name>discoveryservice</name>
     <description>Service Discovery Netflix Eureka</description>
     <properties>
         <java.version>11</java.version>
